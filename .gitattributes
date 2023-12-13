@@ -1,6 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
-
 function golfScore(par, strokes){
     let namedScore;
         if (strokes === 1){ //First stroke is Hole-in-one
